@@ -1,5 +1,5 @@
 {
-  movies: [
+  "musics": [
       {
 		"id": "0",
 		"music_name": "NIGHTRIDER",
@@ -12,6 +12,13 @@
 		"music_name": "Dynamite",
 		"music_genre": "Pop",
 		"artist": "BTS",
+		"year": "2020"
+	},
+	{
+		"id": "19",
+		"music_name": "abc",
+		"music_genre": "kid",
+		"artist": "kid",
 		"year": "2020"
 	}
   ]
